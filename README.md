@@ -78,14 +78,18 @@ Este problema se resuelve paso a paso usando el algoritmo del símplex y al fina
 Aquí se muestra cómo evoluciona la tabla del método símplex en cada iteración:
 
 ![evidencia](img/evidencia1.PNG)
+
 ![evidencia](img/evidencia2.PNG)
+
 ![evidencia](img/evidencia3.PNG)
 
 ### 📉 Gráfico de la Región Factible (Método Grafico Simplex)  
 
 ![evidencia](img/mgevidencia1.PNG)
+
 ![evidencia](img/mgevidencia2.PNG)
-![evidencia](img/megevidencia3.PNG)
+
+![evidencia](img/mgevidencia3.PNG)
 
 Una imagen que representa gráficamente el conjunto de soluciones viables:
 

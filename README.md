@@ -77,7 +77,7 @@ Este problema se resuelve paso a paso usando el algoritmo del símplex y al fina
 ### 🔍 Consola - Método Símplex  
 Aquí se muestra cómo evoluciona la tabla del método símplex en cada iteración:
 
-![evidencia](img/evidencia1.png)
+![evidencia](img/evidencia1.PNG)
 ![evidencia](img/evidencia2.png)
 ![evidencia](img/evidencia3.png)
 

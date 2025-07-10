@@ -78,18 +78,18 @@ Este problema se resuelve paso a paso usando el algoritmo del símplex y al fina
 Aquí se muestra cómo evoluciona la tabla del método símplex en cada iteración:
 
 ![evidencia](img/evidencia1.PNG)
-![evidencia](img/evidencia2.png)
-![evidencia](img/evidencia3.png)
+![evidencia](img/evidencia2.PNG)
+![evidencia](img/evidencia3.PNG)
 
 ### 📉 Gráfico de la Región Factible (Método Grafico Simplex)  
 
-![evidencia](img/mgevidencia1.png)
-![evidencia](img/mgevidencia2.png)
-![evidencia](img/megevidencia3.png)
+![evidencia](img/mgevidencia1.PNG)
+![evidencia](img/mgevidencia2.PNG)
+![evidencia](img/megevidencia3.PNG)
 
 Una imagen que representa gráficamente el conjunto de soluciones viables:
 
-![Gráfico de la Región Factible](img/metodoGraficoSimplex.png)
+![Gráfico de la Región Factible](img/metodoGraficoSimplex.PNG)
 
 ### 📋 Reporte de Sensibilidad
 
@@ -103,7 +103,7 @@ Muestra cómo cambian los resultados óptimos si varían los coeficientes de la 
 
 🖼️ **Visualización del Reporte:**
 
-![Reporte de Sensibilidad](img/sensibilidad.png)
+![Reporte de Sensibilidad](img/sensibilidad.PNG)
 
 ✅ Este reporte permite analizar la estabilidad de la solución óptima y entender cómo pequeños cambios en los datos afectan los resultados.
 
